@@ -5,7 +5,7 @@ I'm an argentinian data professional, with 2+ years in dynamic data teams. Profi
 
 - Check out my [website](https://www.thiagosequeira.vercel.app/) to learn more about me.
  
-## Toolbox
+## Skills
 
 **Data Manipulation:** `Python` `Pandas` `PySpark` `Seaborn` `NumPy` `Matplotlib` `SQL`
  
