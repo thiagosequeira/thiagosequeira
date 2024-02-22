@@ -11,7 +11,7 @@ I'm an argentinian data professional, with 2+ years in dynamic data teams. Profi
  
 **Tools and Platforms:** `Azure` `Databricks` `Jupyter Notebooks` `Git`
 
-**Visualization:** `Microsoft Power BI`  `Tableau` `Qlik`
+**Visualization:** `Microsoft Power BI` `Tableau` `Qlik`
 
 **Others:** `Scrum` `Confluence` `Jira`
 
