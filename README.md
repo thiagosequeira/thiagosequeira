@@ -9,9 +9,9 @@ I'm an argentinian data professional, with 2+ years in dynamic data teams. Profi
 
 **Data Manipulation:** `Python` `Pandas` `PySpark` `Seaborn` `NumPy` `Matplotlib` `SQL`
  
-**Tools and Platforms:** `Azure` `Databricks` `Jupyter Notebooks` `Git`
+**Tools and Platforms:** `Azure` `Databricks` `Jupyter` `Git`
 
-**Visualization:** `Microsoft Power BI` `Tableau`
+**Visualization:** `Power BI` `Tableau`
 
 **Others:** `Scrum` `Confluence` `Jira`
 
