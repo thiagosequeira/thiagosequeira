@@ -1,6 +1,6 @@
 ### Thiago Sequeira
 
-I'm an argentinian data professional, with 2+ years in dynamic data teams. Proficient in Python, SQL, and Power BI, dedicated to
+Argentinian data professional, with 2+ years in dynamic data teams. Proficient in Python, SQL, and Power BI, dedicated to
  optimizing data processes and extracting actionable insights from complex datasets
 
 - Check out my [website](https://www.thiagosequeira.vercel.app/) to see more about me.
